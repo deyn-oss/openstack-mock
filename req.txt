@@ -1,0 +1,7 @@
+Nova - Done
+Neutron - Done
+Cinder
+Glance
+Keystone
+Horizon
+Swift
